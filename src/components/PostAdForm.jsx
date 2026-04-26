@@ -13,7 +13,7 @@ const PostAdForm = () => {
       <h1 className="text-center mb-4">POST YOUR AD</h1>
 
       <div className="mb-4">
-        <h4>SELECTED CATEGORY one</h4>
+        <h4>SELECTED CATEGORY aws ctaegory</h4>
         <p className="text-muted">Properties / For Sale: Houses & Apartments <a href="#">Change</a></p>
       </div>
 
